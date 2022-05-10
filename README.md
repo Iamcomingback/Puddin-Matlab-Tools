@@ -1,2 +1,2 @@
 # Puddin-Matlab-Tools-GR
-Collecting my MATLAB functions and tools for GR.
+Implemented MATLAB functions and tools for GR.
